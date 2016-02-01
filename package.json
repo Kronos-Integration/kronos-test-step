@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/Kronos-Integration/kronos-test-step#readme",
   "dependencies": {
-    "kronos-service": "^1.6.3",
+    "kronos-service": "^2.0.1",
     "scope-reporter": "2.3.0"
   },
   "devDependencies": {
