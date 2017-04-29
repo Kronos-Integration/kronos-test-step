@@ -16,6 +16,8 @@ test support for kronos steps
 install
 =======
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kronos-Integration/kronos-test-step.svg)](https://greenkeeper.io/)
+
 With [npm](http://npmjs.org) do:
 
 ```sh
