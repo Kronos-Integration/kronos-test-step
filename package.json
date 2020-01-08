@@ -25,7 +25,8 @@
     "docs": "documentation readme src/ava-step.js --section=API",
     "lint": "documentation lint src/ava-step.js",
     "posttest": "markdown-doctest && npm run prepare",
-    "test": "ava"
+    "test": "ava",
+    "prepare": "rollup -c"
   },
   "dependencies": {
     "ava": "^2.1.0",
