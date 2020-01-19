@@ -28,7 +28,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "ava": "^2.1.0",
+    "ava": "^3.0.0",
     "kronos-service": "^4.17.2"
   },
   "devDependencies": {
