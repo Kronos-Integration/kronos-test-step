@@ -1,0 +1,10 @@
+{
+  "name": "@kronos-integration/test-step",
+  "description": "kronos-step testing support with ava",
+  "icons": [
+    {
+      "src": "facicon.ico",
+      "sizes": "16x16"
+    }
+  ]
+}
